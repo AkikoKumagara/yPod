@@ -5,4 +5,5 @@
 
 <p align=center><img src="./images/yPodMenu.png" alt="The Main Menu"/> <img src="./images/yPodPlayer.png" alt="The Player Screen"/></center></p>
 
-<p align=center>Author: <a href=https://github.com/AkikoKumagara>AkikoKumagara</a>
+<p align=center>Author: <a href=https://github.com/AkikoKumagara>AkikoKumagara</a><br/>
+Lightly inspired by the <a href="https://www.reddit.com/r/innioasis/comments/1k3anhe/my_ipodish_theme_for_the_innioasis_y1/">iPod-ish theme by NiVi-OoF</a>
