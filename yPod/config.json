@@ -13,7 +13,7 @@
     },
     "dialogConfig": {
         "dialogOptionBackground": "3.png",
-        "dialogOptionTextColor": "#ffffff",
+        "dialogOptionTextColor": "#000000",
         "dialogOptionSelectedBackground": "4.png",
         "dialogOptionSelectedTextColor": "#ffffff",
         "dialogBackgroundColor": "#DBDBDB"
@@ -21,7 +21,7 @@
     "menuConfig": {
         "menuBackgroundColor": "#ffffff",
         "menuItemBackground": "",
-        "menuItemTextColor": "#ffffff",
+        "menuItemTextColor": "#000000",
         "menuItemSelectedBackground": "1.png",
         "menuItemSelectedTextColor": "#ffffff"
     },
