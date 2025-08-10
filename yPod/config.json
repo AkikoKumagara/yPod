@@ -22,7 +22,7 @@
         "menuBackgroundColor": "#ffffff",
         "menuItemBackground": "",
         "menuItemTextColor": "#000000",
-        "menuItemSelectedBackground": "1.png",
+        "menuItemSelectedBackground": "1sel.png",
         "menuItemSelectedTextColor": "#ffffff"
     },
     "homePageConfig": {
@@ -37,6 +37,9 @@
         "shuffleQuick": "shuffle.png"
         
     },
+	"nowPlayingConfig": {
+		"nowPlayingTextColor": "#030303"
+	},
     "fileConfig": {
         "folderIcon": "",
         "musicIcon": ""
